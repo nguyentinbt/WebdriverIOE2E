@@ -1,0 +1,1 @@
+export const GOREST_BASE_URI = "https://gorest.co.in"

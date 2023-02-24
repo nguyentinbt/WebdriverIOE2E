@@ -1,0 +1,13 @@
+{
+    "extension": [
+        "ts"
+    ],
+    "spec": "src/api/test/reqres.ts",
+    "require": [
+        "ts-node/register",
+        "tsconfig-paths/register"
+    ],
+    "timeout": 20000,
+    "reporter": "mochawesome",
+    "reporter-options": "reportDir=reports/api"
+}
