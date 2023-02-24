@@ -14,7 +14,7 @@
 Clone Repository
 
 ```bash
-1. git clone https://github.com/TinNguyenWav/WebdriverIOE2E.git
+1. git clone https://github.com/nguyentinbt/WebdriverIOE2E.git
 2. Navigate to `WebdriverIOE2E`
 ```
 
